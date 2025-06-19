@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shannu-19
-- 👀 I’m interested in ...machine learning
-- 🌱 I’m currently learning ...python with dsa
-- 💞️ I’m looking to collaborate on ... some of the projects based on ML
+- 👀 I’m interested in ...Data Analytics
+- 🌱 I’m currently learning ...python and SQL
+- 💞️ I’m looking to collaborate on ... some of the projects based on DS
 - 📫 How to reach me ... pull requestes on the github
 
 <!---
